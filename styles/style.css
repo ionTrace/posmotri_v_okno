@@ -232,7 +232,7 @@ fieldset {
   display: flex;
   flex-direction: column;
   block-size: 298px;
-  overflow-y: auto;
+  overflow: auto;
 }
 
 .content__list-item:not(:last-of-type) {
